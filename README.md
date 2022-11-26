@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Durgeshjoshi
-- 👀 I’m interested in Javascript & Vue
+- 👀 I’m interested in Javascript & VueJS
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on Javascript
 - 📫 How to reach me durgesh31g@gmail.com
